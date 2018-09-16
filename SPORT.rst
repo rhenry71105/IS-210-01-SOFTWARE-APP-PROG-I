@@ -63,8 +63,8 @@ My Top 5 Favorite Basketball Players.
 
 
 
-.. [1] Stephen Curry, GWS 
-.. [2] Kevin Durant, GWS 
+.. [1] Stephen Curry, GSW 
+.. [2] Kevin Durant, GSW 
 .. [3] Kristaps Porzingis, Knicks
 .. [4] Donovan Mitchell, Utah Jazz
 .. [5] Kyrie Irving, Boston Celtics
