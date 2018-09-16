@@ -15,7 +15,7 @@ Why Basketball Is my favorite Sport.
 	It’s a team sport, but one player can make a huge impact, but you have a greater opportunity to shine and have an outsizes impact on the outcome of the game.
  
 	Basketball is one of the cheapest sports to play. One basketball and two hoops (sometimes even just one!) are all you need for a game that could work for up to ten people at once. 
-	physically, it’s probably one of the best for the human body. Most professional athletes are in pretty darn fantastic shape.
+	physically, it’s probably one of the best for the human body. Most professional athletes are in fantastic shape.
  
 	In basketball, you can play one-on-one or up to ten people at once. Basketball is awesome because no matter how many people you have, you can play. 
 	If you’re on your own, you can still shoot the ball, which is extremely therapeutic. 
