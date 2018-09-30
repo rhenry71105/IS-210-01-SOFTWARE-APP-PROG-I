@@ -2,7 +2,7 @@
 
 **What's Tkinter?**
 
-===================================================================================================
+========================================================================
 The Tkinter module (“Tk interface”) is the standard Python interface to the Tk GUI toolkit from Scriptics.
 --(formerly developed by Sun Labs)--. Tk offers a native look and feel on all platforms.
 Tkinter consists of a number of modules. The Tk interface is provided by a binary extension module named _tkinter.
