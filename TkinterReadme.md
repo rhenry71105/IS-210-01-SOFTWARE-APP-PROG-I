@@ -18,13 +18,13 @@ To use Tkinter, all you need to do is to import the Tkinter module:
 
 * from Tkinter import *
 
-=====================================================================================================
+=======================================================================
 
 The Tkinter module only exports widget classes and associated constants, so you can safely use the from-in form in most cases.
 If you prefer not to, but still want to save some typing, you can use import-as:
 import Tkinter as Tk
 
-====================================================================================================
+=======================================================================
 
 Python offers multiple options for developing GUI (Graphical User Interface).
 Out of all the GUI methods, tkinter is most commonly used method.
@@ -38,7 +38,7 @@ To create a tkinter:
 3. Add any number of widgets to the main window
 4. Apply the event Trigger on the widgets.
 
-======================================================================================================
+======================================================================
 
 I have created a simple interface using tkinter module GUI (Graphical User Interface) with an Input and submit function.
 The interface accepts clear type text and confirms what you have entered was received successfully.
