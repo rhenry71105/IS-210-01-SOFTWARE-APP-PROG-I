@@ -47,6 +47,6 @@ Creating a GUI using tkinter is an easy task.
 
 ======================================================================
 
-I have created a simple interface using tkinter module GUI (Graphical User Interface) with an Input and submit function.
+I have created a simple interface using tkinter module GUI **(Graphical User Interface)**with an Input and submit function.
 The interface accepts clear type text and confirms what you have entered was received successfully.
 The program has a terminate function added in the interface.
