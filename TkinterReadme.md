@@ -2,7 +2,7 @@
 
 **What's Tkinter?**
 
-=========================================================================================================================
+===================================================================================================
 The Tkinter module (“Tk interface”) is the standard Python interface to the Tk GUI toolkit from Scriptics.
 --(formerly developed by Sun Labs)--. Tk offers a native look and feel on all platforms.
 Tkinter consists of a number of modules. The Tk interface is provided by a binary extension module named _tkinter.
@@ -18,12 +18,13 @@ To use Tkinter, all you need to do is to import the Tkinter module:
 
 * from Tkinter import *
 
-==============================================================================================================================
+=====================================================================================================
+
 The Tkinter module only exports widget classes and associated constants, so you can safely use the from-in form in most cases.
 If you prefer not to, but still want to save some typing, you can use import-as:
 import Tkinter as Tk
 
-==============================================================================================================================
+====================================================================================================
 
 Python offers multiple options for developing GUI (Graphical User Interface).
 Out of all the GUI methods, tkinter is most commonly used method.
@@ -37,7 +38,7 @@ To create a tkinter:
 3. Add any number of widgets to the main window
 4. Apply the event Trigger on the widgets.
 
-===============================================================================================================================
+======================================================================================================
 
 I have created a simple interface using tkinter module GUI (Graphical User Interface) with an Input and submit function.
 The interface accepts clear type text and confirms what you have entered was received successfully.
