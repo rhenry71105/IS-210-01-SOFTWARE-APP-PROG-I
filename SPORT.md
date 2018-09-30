@@ -1,7 +1,6 @@
-﻿##################################################################################
+##################################################################################
 Welcome To IS 210 01 — SOFTWARE APP PROG I - CUNYSPS Fall, 2018 by Rickardo Henry
 ##################################################################################
-
 
 
 .. contents:: The table of contents
@@ -62,11 +61,14 @@ My Top 5 Favorite Basketball Players.
 =====================================
 
 
-
 .. [1] Stephen Curry, GWS 
+
 .. [2] Kevin Durant, GWS 
+
 .. [3] Kristaps Porzingis, Knicks
+
 .. [4] Donovan Mitchell, Utah Jazz
+
 .. [5] Kyrie Irving, Boston Celtics
 
 
