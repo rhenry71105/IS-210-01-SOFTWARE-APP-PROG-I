@@ -1,11 +1,9 @@
-#####################################################
-Rickardo's Module:Tkinter
-#####################################################
+######################################Rickardo's Module:Tkinter####################################
 
 **What's Tkinter?**
 
 =========================================================================================================================
-The Tkinter module (“Tk interface”) is the standard Python interface to the Tk GUI toolkit from Scriptics
+The Tkinter module (“Tk interface”) is the standard Python interface to the Tk GUI toolkit from Scriptics.
 --(formerly developed by Sun Labs)--. Tk offers a native look and feel on all platforms.
 Tkinter consists of a number of modules. The Tk interface is provided by a binary extension module named _tkinter.
 This module contains the low-level interface to Tk, and should never be used directly by application programmers.
@@ -24,6 +22,7 @@ To use Tkinter, all you need to do is to import the Tkinter module:
 The Tkinter module only exports widget classes and associated constants, so you can safely use the from-in form in most cases.
 If you prefer not to, but still want to save some typing, you can use import-as:
 import Tkinter as Tk
+
 ==============================================================================================================================
 
 Python offers multiple options for developing GUI (Graphical User Interface).
