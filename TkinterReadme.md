@@ -39,7 +39,7 @@ It is a standard Python interface to the Tk GUI toolkit shipped with Python.
 Python with tkinter outputs the fastest and easiest way to create the GUI applications.
 Creating a GUI using tkinter is an easy task.
 
-To create a tkinter:
+**To create a tkinter:
 1. Importing the module – tkinter
 2. Create the main window (container)
 3. Add any number of widgets to the main window
