@@ -1,5 +1,9 @@
 ##################################################################################
-Welcome To IS 210 01 — SOFTWARE APP PROG I - CUNYSPS Fall, 2018 by Rickardo Henry
+Welcome To IS 210 01
+
+SOFTWARE APP PROG I 
+
+CUNYSPS Fall, 2018 by Rickardo Henry
 ##################################################################################
 
 
