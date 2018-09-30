@@ -11,7 +11,7 @@ Tkinter consists of a number of modules. The Tk interface is provided by a binar
 
 This module contains the low-level interface to Tk, and should never be used directly by application programmers.
 
-It is usually a shared library (or DLL), but might in some cases be statically linked with the Python interpreter.
+It is usually a shared library (**or DLL**), but might in some cases be statically linked with the Python interpreter.
 
 The public interface is provided through a number of Python modules.
 
